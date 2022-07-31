@@ -1,4 +1,9 @@
 # Event Mangement System
+Team Members: 
+<b> Sai Priya Lakkireddy </b>
+<b> Shreya Maheshwari </b>
+<b> Navneetha Rajan </b>
+<b> Archana Prakash </b>
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.0.
 
